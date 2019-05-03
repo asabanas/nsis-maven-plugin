@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>org.digitalmediaserver</groupId>
+	<groupId>com.quaytex.plugins</groupId>
 	<artifactId>nsis-maven-plugin</artifactId>
 	<version>1.0.1-SNAPSHOT</version>
 	<packaging>maven-plugin</packaging>
@@ -13,7 +13,7 @@
 	<name>NSIS Maven Plugin</name>
 
 	<description>This Maven plugin allows NSIS Windows installers to be built.</description>
-	<url>https://github.com/DigitalMediaServer/nsis-maven-plugin</url>
+	<url>https://github.com/gieza/nsis-maven-plugin</url>
 
 	<licenses>
 		<license>
@@ -24,10 +24,10 @@
 	</licenses>
 
 	<scm>
-		<connection>scm:git:git@github.com:DigitalMediaServer/nsis-maven-plugin.git</connection>
-		<developerConnection>scm:git:git@github.com:DigitalMediaServer/nsis-maven-plugin.git</developerConnection>
-		<url>http://github.com/DigitalMediaServer/nsis-maven-plugin</url>
-	</scm>
+  <connection>scm:git:git@github.com:gieza/nsis-maven-plugin.git</connection>
+  <developerConnection>scm:git:git@github.com:gieza/nsis-maven-plugin.git</developerConnection>
+  <url>http://github.com/gieza/nsis-maven-plugin</url>
+</scm>
 
 	<developers>
 		<developer>
@@ -44,7 +44,7 @@
 
 	<issueManagement>
 		<system>GitHub</system>
-		<url>https://github.com/DigitalMediaServer/nsis-maven-plugin/issues</url>
+		<url>https://github.com/gieza/nsis-maven-plugin/issues</url>
 	</issueManagement>
 
 	<properties>
