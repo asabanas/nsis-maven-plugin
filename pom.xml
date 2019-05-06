@@ -10,7 +10,7 @@
 
 	<groupId>com.quaytex.plugins</groupId>
 	<artifactId>nsis-maven-plugin</artifactId>
-	<version>1.0.3</version>
+	<version>1.0.4-SNAPSHOT</version>
 	<packaging>maven-plugin</packaging>
 	<prerequisites>
 		<maven>3.0.4</maven>
@@ -35,7 +35,7 @@
 		  <connection>scm:git:ssh://git@github.com/gieza/nsis-maven-plugin.git</connection>
   <developerConnection>scm:git:ssh://git@github.com/gieza/nsis-maven-plugin.git</developerConnection>
   <url>http://github.com/gieza/nsis-maven-plugin</url>
-  <tag>1.0.3</tag>
+  <tag>HEAD</tag>
   </scm>
 
 	<developers>
