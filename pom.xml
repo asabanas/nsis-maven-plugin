@@ -24,8 +24,10 @@
 	</licenses>
 
 	<scm>
-  <connection>scm:git:git@github.com:gieza/nsis-maven-plugin.git</connection>
-  <developerConnection>scm:git:git@github.com:gieza/nsis-maven-plugin.git</developerConnection>
+<!--  <connection>scm:git:git@github.com:gieza/nsis-maven-plugin.git</connection>-->
+<!--  <developerConnection>scm:git:git@github.com:gieza/nsis-maven-plugin.git</developerConnection>-->
+		  <connection>scm:git:ssh://git@github.com/gieza/nsis-maven-plugin.git</connection>
+  <developerConnection>scm:git:ssh://git@github.com/gieza/nsis-maven-plugin.git</developerConnection>
   <url>http://github.com/gieza/nsis-maven-plugin</url>
 </scm>
 
